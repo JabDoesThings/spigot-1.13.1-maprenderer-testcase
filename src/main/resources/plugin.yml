@@ -1,0 +1,6 @@
+main: jab.spigot.testcase.PluginTestCase
+name: TestCase
+version: 1.0
+api-version: 1.13
+author: Jab
+description: TestCase Plug-in.
